@@ -1,0 +1,7 @@
+.pgdata/
+.pgsocket/
+*.pid
+*.log
+__pycache__/
+*.pyc
+.env.local
